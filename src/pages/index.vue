@@ -53,31 +53,6 @@ import map from '~/assets/images/map.jpg'
       <SubjectStream :details="{ name: 'Commerce', image: '/commerce.jpg' }" class="commerce-container" />
       <SubjectStream :details="{ name: 'Technology', image: '/tech.jpg' }" class="tech-container" />
       <SubjectStream :details="{ name: 'Live Classes', image: '/live.jpg' }" class="live-container" />
-
-      <!-- <div class="science-container">
-        <img src="/science.jpg" alt="" class="rounded-xl">
-        <p>Science/ Maths</p>
-      </div>
-
-      <div class="arts-container">
-        <img src="/art.jpg" alt="" class="rounded-xl">
-        <p>Arts</p>
-      </div>
-
-      <div class="commerce-container">
-        <img src="/commerce.jpg" alt="" class="rounded-xl">
-        <p>Commerce</p>
-      </div>
-
-      <div class="tech-container">
-        <img src="/tech.jpg" alt="" class="rounded-xl">
-        <p>Technology</p>
-      </div>
-
-      <div class="live-container">
-        <img src="/live.jpg" alt="" class="rounded-xl">
-        <p>Live Classes</p>
-      </div> -->
     </div>
 
     <div class="bg-[var(--n-color-primary-400)] justify-between flex p-8">
@@ -274,7 +249,7 @@ import map from '~/assets/images/map.jpg'
 
     <div class="bg-[#282A3A] p-8 text-white ">
       <div class="flex gap-41">
-        <div class="text-center">
+        <div class="text-center flex flex-col justify-center">
           <div class="flex gap-2 items-center mb-2">
             <material-symbols-call class="text-white" />
             <p class="font-semibold">

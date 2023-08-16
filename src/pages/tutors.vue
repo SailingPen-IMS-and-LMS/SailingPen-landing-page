@@ -9,7 +9,7 @@ import Tutor from '~/components/Tutor.vue'
     <header class="flex justify-end h-[60px] items-center">
       <!-- <img :src="logo" alt="" class="w-[9rem] h-[3rem] px-3 pt-3"> -->
       <div class="flex gap-8 px-6 pt-4 items-center">
-        <a href="#">Home</a>
+        <a href="/">Home</a>
         <a href="#">About</a>
         <a href="/tutors">Tutors</a>
         <a href="#">Classes</a>
