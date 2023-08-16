@@ -138,8 +138,11 @@ import map from '~/assets/images/map.jpg'
           </div>
 
           <p class="text-justify">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Incidunt ratione excepturi placeat quos ullam doloremque sequi
-            fugiat accusantium, veritatis alias. Ut minus harum placeat maiores aliquid. Vel magni saepe ab!
+            Lesson packs are curated collections of educational resources designed to guide students through a
+            structured learning experience. Each pack focuses on a specific topic or subject area and includes
+            a variety of materials like video lectures, reading materials, assignments, and quizzes. Lesson packs
+            provide a comprehensive and sequential approach to learning, helping students grasp concepts and progress
+            at their own pace.
           </p>
         </div>
 
@@ -152,8 +155,10 @@ import map from '~/assets/images/map.jpg'
           </div>
 
           <p class="text-justify">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Incidunt ratione excepturi placeat quos ullam doloremque sequi
-            fugiat accusantium, veritatis alias. Ut minus harum placeat maiores aliquid. Vel magni saepe ab!
+            Classes refer to the core instructional units offered by SailingPen Academy. These are interactive online
+            sessions led by expert instructors, where students engage in real-time discussions, ask questions, and participate
+            in collaborative activities. Classes provide a platform for students to interact with instructors and peers,
+            fostering a dynamic learning environment.
           </p>
         </div>
 
@@ -166,8 +171,9 @@ import map from '~/assets/images/map.jpg'
           </div>
 
           <p class="text-justify">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Incidunt ratione excepturi placeat quos ullam doloremque sequi
-            fugiat accusantium, veritatis alias. Ut minus harum placeat maiores aliquid. Vel magni saepe ab!
+            Exams are formal assessments that evaluate students' understanding and mastery of course content. SailingPen Academy's
+            exam system allows students to demonstrate their knowledge through timed or untimed assessments. Exams may cover a
+            range of topics and are designed to measure students' comprehension, critical thinking, and problem-solving skills.
           </p>
         </div>
 
@@ -180,8 +186,9 @@ import map from '~/assets/images/map.jpg'
           </div>
 
           <p class="text-justify">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Incidunt ratione excepturi placeat quos ullam doloremque sequi
-            fugiat accusantium, veritatis alias. Ut minus harum placeat maiores aliquid. Vel magni saepe ab!
+            Quizzes are shorter, focused assessments that help students gauge their understanding of specific concepts within a
+            lesson or topic. These quick assessments often provide immediate feedback, allowing students to identify areas that
+            require further review. Quizzes serve as a valuable self-assessment tool to reinforce learning.
           </p>
         </div>
 
@@ -194,8 +201,9 @@ import map from '~/assets/images/map.jpg'
           </div>
 
           <p class="text-justify">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Incidunt ratione excepturi placeat quos ullam doloremque sequi
-            fugiat accusantium, veritatis alias. Ut minus harum placeat maiores aliquid. Vel magni saepe ab!
+            The leaderboard is a gamified feature that tracks and displays students' achievements and progress within the academy.
+            As students complete lessons, quizzes, assignments, and exams, they earn points or badges. The leaderboard showcases
+            the top-performing students, fostering healthy competition and motivation to excel in their studies.
           </p>
         </div>
 
@@ -208,8 +216,9 @@ import map from '~/assets/images/map.jpg'
           </div>
 
           <p class="text-justify">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Incidunt ratione excepturi placeat quos ullam doloremque sequi
-            fugiat accusantium, veritatis alias. Ut minus harum placeat maiores aliquid. Vel magni saepe ab!
+            Flashcards are a study tool designed to aid memory retention and quick review. SailingPen Academy's flashcards feature allows
+            students to create digital flashcards with key terms, concepts, and definitions. These digital cards can be flipped to reveal
+            information, helping students reinforce their understanding and recall important information effectively.
           </p>
         </div>
       </div>
